@@ -80,7 +80,7 @@ penalised with a reward of -1 for each timestep.
 
 ### Starting State
 
-The position of the car is assigned a uniform random value in *[-0.6 , 0.4]*.
+The position of the car is assigned a uniform random value in *[-0.6 , -0.4]*.
 The starting velocity of the car is always assigned to 0.
 
 ### Episode Termination
